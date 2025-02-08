@@ -95,6 +95,9 @@ const secretNames = [
   "Rittika",
   "Rimi",
   "Rishika",
+  "Taniya",	
+  "Tanya",
+  "Tani",
 ].map((name) => name.toLowerCase());
 
 const rejectedNames = [
