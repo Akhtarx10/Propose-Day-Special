@@ -9,7 +9,6 @@ const secretNames = [
   "Shreya",
   "Anindita",
   "Puja",
-  "Sumedha",
   "Nabanita",
   "Sudipa",
   "Soma",
@@ -67,6 +66,9 @@ const secretNames = [
 const rejectedNames = [
   "Sohag",
   "Prodip",
+  "Sumedha",
+  "Monal",
+  "Sourav",
   "Debmalya",
   "Uthso",
   "Rahul",
