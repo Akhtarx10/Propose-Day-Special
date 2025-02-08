@@ -112,7 +112,7 @@ form.addEventListener("submit", (e) => {
 
   if (secretNames.includes(userInput)) {
     if (userInput === "saheli") {
-      resultDiv.innerHTML = "Ami jantam bara chukchukani bei tder";
+      resultDiv.innerHTML = "Ami jantam bara chukchukani besi tder";
     } else {
       resultDiv.innerHTML = "Baby";
       setTimeout(() => {
